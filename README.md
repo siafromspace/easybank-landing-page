@@ -15,8 +15,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,14 +25,15 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
+![easybank1](https://user-images.githubusercontent.com/101575004/178369651-839bf2f3-21da-4f1c-bf51-41ca137fb8ba.png)
+![easybank2](https://user-images.githubusercontent.com/101575004/178369672-088e8fd9-49f9-40cf-b545-c069c0cb9d58.png)
+![easybank3](https://user-images.githubusercontent.com/101575004/178369688-7367ec8d-207c-4875-907b-9bcd65e57b5f.png)
+![easybank4](https://user-images.githubusercontent.com/101575004/178369704-ea868b24-7c18-4f28-a186-60e49a2c3cae.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://easybank-landing-page247.netlify.app)
 
 ## My process
 
