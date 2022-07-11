@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/siafromspace/easybank-landing-page.git)
 - Live Site URL: [Live Site](https://easybank-landing-page247.netlify.app)
 
 ## My process
