@@ -1002,6 +1002,11 @@ header {
     padding-bottom: 6rem;
   }
 
+  .md\:px-24 {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+
   .md\:text-left {
     text-align: left;
   }
